@@ -1,3 +1,1 @@
-<h5> Live link https://banaologinpage.netlify.app/</h5>
-
-<h5> server code: https://github.com/mozahidahmed/Across-task2-server</h5>
+<img width="100%" height="" src="https://i.ibb.co/Jp2CdCm/Screenshot-53.png"></img>
